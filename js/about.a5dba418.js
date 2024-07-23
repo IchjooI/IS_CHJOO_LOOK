@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkis_chjoo"]=self["webpackChunkis_chjoo"]||[]).push([[594],{5032:function(n,u,c){c.r(u),c.d(u,{default:function(){return h}});var r=c(6768);const s={class:"about"},t=(0,r.Lk)("h1",null,"这是CHJOO的测试VUE3",-1),e=[t];function o(n,u){return(0,r.uX)(),(0,r.CE)("div",s,e)}var a=c(1241);const i={},f=(0,a.A)(i,[["render",o]]);var h=f}}]);
+//# sourceMappingURL=about.a5dba418.js.map

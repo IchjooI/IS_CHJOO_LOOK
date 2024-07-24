@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkis_chjoo"]=self["webpackChunkis_chjoo"]||[]).push([[594],{1645:function(t,a,c){c.r(a),c.d(a,{default:function(){return f}});var n=c(6768);const s=t=>((0,n.Qi)("data-v-e54a324c"),t=t(),(0,n.jt)(),t),e={class:"about"},u=s((()=>(0,n.Lk)("h1",null,"这是CHJOO的测试VUE3",-1))),o=s((()=>(0,n.Lk)("div",{class:"testbox"},null,-1))),r=[u,o];function i(t,a){return(0,n.uX)(),(0,n.CE)("div",e,r)}var l=c(1241);const d={},v=(0,l.A)(d,[["render",i],["__scopeId","data-v-e54a324c"]]);var f=v}}]);
-//# sourceMappingURL=about.73756278.js.map

@@ -1,2 +1,2 @@
 "use strict";(self["webpackChunkis_chjoo"]=self["webpackChunkis_chjoo"]||[]).push([[594],{6628:function(n,s,u){u.r(s),u.d(s,{default:function(){return h}});var t=u(6768);const c={class:"about"},e=(0,t.Lk)("h1",null,"这是CHJOO的测试VUE3",-1),o=(0,t.Lk)("div",{class:"testbox"},null,-1),r=[e,o];function a(n,s){return(0,t.uX)(),(0,t.CE)("div",c,r)}var l=u(1241);const i={},f=(0,l.A)(i,[["render",a]]);var h=f}}]);
-//# sourceMappingURL=about.21b75a3d.js.map
+//# sourceMappingURL=about.2b816df3.js.map
